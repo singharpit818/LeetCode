@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/singharpit818/LeetCode/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/singharpit818/LeetCode/tree/master/0048-rotate-image) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/singharpit818/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/singharpit818/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/singharpit818/LeetCode/tree/master/0048-rotate-image) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/singharpit818/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/singharpit818/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
