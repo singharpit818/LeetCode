@@ -3,7 +3,7 @@ class Solution {
         Set<Integer> set = new HashSet<>();
         for(int a:nums) set.add(a);
         int ans = 0;
-        for(int i = 1 ; i<200 ; i++){
+        for(int i = 1 ; i<=101 ; i++){
             ans = k*i;
             if(!set.contains(ans)){
                 return ans;
