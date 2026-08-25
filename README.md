@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/singharpit818/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/singharpit818/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/singharpit818/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/singharpit818/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2956-find-common-elements-between-two-arrays](https://github.com/singharpit818/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/singharpit818/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
 | ------- |
