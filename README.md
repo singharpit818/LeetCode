@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/singharpit818/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/singharpit818/LeetCode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/singharpit818/LeetCode/tree/master/0189-rotate-array) |
 | [1952-three-divisors](https://github.com/singharpit818/LeetCode/tree/master/1952-three-divisors) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/singharpit818/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Recursion
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/singharpit818/LeetCode/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/singharpit818/LeetCode/tree/master/0048-rotate-image) |
 | [0119-pascals-triangle-ii](https://github.com/singharpit818/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0189-rotate-array](https://github.com/singharpit818/LeetCode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/singharpit818/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/singharpit818/LeetCode/tree/master/0561-array-partition) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/singharpit818/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/singharpit818/LeetCode/tree/master/0011-container-with-most-water) |
+| [0189-rotate-array](https://github.com/singharpit818/LeetCode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/singharpit818/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/singharpit818/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Greedy
