@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/singharpit818/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/singharpit818/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/singharpit818/LeetCode/tree/master/0189-rotate-array) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/singharpit818/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1952-three-divisors](https://github.com/singharpit818/LeetCode/tree/master/1952-three-divisors) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/singharpit818/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/singharpit818/LeetCode/tree/master/3870-count-commas-in-range) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/singharpit818/LeetCode/tree/master/0561-array-partition) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/singharpit818/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/singharpit818/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/singharpit818/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/singharpit818/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/singharpit818/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/singharpit818/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/singharpit818/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/singharpit818/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+## Geometry
+|  |
+| ------- |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/singharpit818/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 <!---LeetCode Topics End-->
