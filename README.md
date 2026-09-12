@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/singharpit818/LeetCode/tree/master/0050-powx-n) |
+| [3483-unique-3-digit-even-numbers](https://github.com/singharpit818/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/singharpit818/LeetCode/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/singharpit818/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/singharpit818/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/singharpit818/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/singharpit818/LeetCode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/singharpit818/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/singharpit818/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/singharpit818/LeetCode/tree/master/1952-three-divisors) |
+| [3483-unique-3-digit-even-numbers](https://github.com/singharpit818/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/singharpit818/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/singharpit818/LeetCode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3483-unique-3-digit-even-numbers](https://github.com/singharpit818/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/singharpit818/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
