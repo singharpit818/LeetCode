@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/singharpit818/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/singharpit818/LeetCode/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/singharpit818/LeetCode/tree/master/0836-rectangle-overlap) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/singharpit818/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/singharpit818/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1952-three-divisors](https://github.com/singharpit818/LeetCode/tree/master/1952-three-divisors) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/singharpit818/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/singharpit818/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0835-image-overlap](https://github.com/singharpit818/LeetCode/tree/master/0835-image-overlap) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/singharpit818/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/singharpit818/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/singharpit818/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/singharpit818/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/singharpit818/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/singharpit818/LeetCode/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/singharpit818/LeetCode/tree/master/0561-array-partition) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/singharpit818/LeetCode/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/singharpit818/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/singharpit818/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/singharpit818/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Matrix
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/singharpit818/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0561-array-partition](https://github.com/singharpit818/LeetCode/tree/master/0561-array-partition) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/singharpit818/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2974-minimum-number-game](https://github.com/singharpit818/LeetCode/tree/master/2974-minimum-number-game) |
 ## Counting Sort
 |  |
@@ -134,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/singharpit818/LeetCode/tree/master/2974-minimum-number-game) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/singharpit818/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
