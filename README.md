@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/singharpit818/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/singharpit818/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1952-three-divisors](https://github.com/singharpit818/LeetCode/tree/master/1952-three-divisors) |
+| [2485-find-the-pivot-integer](https://github.com/singharpit818/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/singharpit818/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/singharpit818/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/singharpit818/LeetCode/tree/master/3871-count-commas-in-range-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2485-find-the-pivot-integer](https://github.com/singharpit818/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/singharpit818/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/singharpit818/LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Geometry
