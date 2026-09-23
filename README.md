@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/singharpit818/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/singharpit818/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/singharpit818/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+| [2079-watering-plants](https://github.com/singharpit818/LeetCode/tree/master/2079-watering-plants) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/singharpit818/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/singharpit818/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/singharpit818/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2079-watering-plants](https://github.com/singharpit818/LeetCode/tree/master/2079-watering-plants) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/singharpit818/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/singharpit818/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2974-minimum-number-game](https://github.com/singharpit818/LeetCode/tree/master/2974-minimum-number-game) |
