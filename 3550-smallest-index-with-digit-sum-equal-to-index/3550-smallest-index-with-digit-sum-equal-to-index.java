@@ -4,7 +4,7 @@ class Solution {
         for(int i = 0 ; i<n ; i++){
             int sum = 0;
             int k = nums[i];
-            while(k!=0){
+            while(k>0){
                 int rem = k%10;
                 sum+=rem;
                 k/=10;
