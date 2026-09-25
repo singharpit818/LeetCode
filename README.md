@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/singharpit818/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/singharpit818/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/singharpit818/LeetCode/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/singharpit818/LeetCode/tree/master/0412-fizz-buzz) |
 | [0836-rectangle-overlap](https://github.com/singharpit818/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/singharpit818/LeetCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/singharpit818/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/singharpit818/LeetCode/tree/master/0412-fizz-buzz) |
 | [2079-watering-plants](https://github.com/singharpit818/LeetCode/tree/master/2079-watering-plants) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/singharpit818/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/singharpit818/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/singharpit818/LeetCode/tree/master/0412-fizz-buzz) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/singharpit818/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2942-find-words-containing-character](https://github.com/singharpit818/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/singharpit818/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
