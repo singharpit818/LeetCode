@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/singharpit818/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/singharpit818/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/singharpit818/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/singharpit818/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/singharpit818/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/singharpit818/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/singharpit818/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/singharpit818/LeetCode/tree/master/0561-array-partition) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/singharpit818/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/singharpit818/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/singharpit818/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/singharpit818/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/singharpit818/LeetCode/tree/master/2974-minimum-number-game) |
 ## Counting Sort
