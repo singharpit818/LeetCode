@@ -8,7 +8,6 @@ class Solution {
         }
         Arrays.sort(set);
         for(int i = 1 ; i<n ; i++){
-            // int min = Math.abs(set[i]-set[i+1]);
             max=Math.max(set[i]-set[i-1],max);
         }
         return max;
