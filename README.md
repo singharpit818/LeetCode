@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/singharpit818/LeetCode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1952-three-divisors](https://github.com/singharpit818/LeetCode/tree/master/1952-three-divisors) |
 | [2485-find-the-pivot-integer](https://github.com/singharpit818/LeetCode/tree/master/2485-find-the-pivot-integer) |
+| [3536-maximum-product-of-two-digits](https://github.com/singharpit818/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/singharpit818/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/singharpit818/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/singharpit818/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/singharpit818/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/singharpit818/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/singharpit818/LeetCode/tree/master/2974-minimum-number-game) |
+| [3536-maximum-product-of-two-digits](https://github.com/singharpit818/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/singharpit818/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Counting Sort
 |  |
