@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/singharpit818/LeetCode/tree/master/1486-xor-operation-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/singharpit818/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1688-count-of-matches-in-tournament](https://github.com/singharpit818/LeetCode/tree/master/1688-count-of-matches-in-tournament) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/singharpit818/LeetCode/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/singharpit818/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1837-sum-of-digits-in-base-k](https://github.com/singharpit818/LeetCode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1952-three-divisors](https://github.com/singharpit818/LeetCode/tree/master/1952-three-divisors) |
