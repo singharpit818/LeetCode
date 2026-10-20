@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/singharpit818/LeetCode/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/singharpit818/LeetCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/singharpit818/LeetCode/tree/master/3904-smallest-stable-index-ii) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/singharpit818/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/singharpit818/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/singharpit818/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/singharpit818/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/singharpit818/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Greedy
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/singharpit818/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/singharpit818/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/singharpit818/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/singharpit818/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Matrix
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/singharpit818/LeetCode/tree/master/2974-minimum-number-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/singharpit818/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/singharpit818/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [4014-minimum-total-price-after-applying-discounts](https://github.com/singharpit818/LeetCode/tree/master/4014-minimum-total-price-after-applying-discounts) |
 ## Counting Sort
 |  |
 | ------- |
