@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/singharpit818/LeetCode/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1837-sum-of-digits-in-base-k](https://github.com/singharpit818/LeetCode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1952-three-divisors](https://github.com/singharpit818/LeetCode/tree/master/1952-three-divisors) |
+| [2409-count-days-spent-together](https://github.com/singharpit818/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2485-find-the-pivot-integer](https://github.com/singharpit818/LeetCode/tree/master/2485-find-the-pivot-integer) |
 | [3536-maximum-product-of-two-digits](https://github.com/singharpit818/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/singharpit818/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/singharpit818/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/singharpit818/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/singharpit818/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2409-count-days-spent-together](https://github.com/singharpit818/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/singharpit818/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/singharpit818/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/singharpit818/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
