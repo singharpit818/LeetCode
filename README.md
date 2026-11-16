@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-watering-plants](https://github.com/singharpit818/LeetCode/tree/master/2079-watering-plants) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/singharpit818/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/singharpit818/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/singharpit818/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2974-minimum-number-game](https://github.com/singharpit818/LeetCode/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/singharpit818/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/singharpit818/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/singharpit818/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/singharpit818/LeetCode/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/singharpit818/LeetCode/tree/master/1945-sum-of-digits-of-string-after-convert) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/singharpit818/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/singharpit818/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2942-find-words-containing-character](https://github.com/singharpit818/LeetCode/tree/master/2942-find-words-containing-character) |
 | [3498-reverse-degree-of-a-string](https://github.com/singharpit818/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
