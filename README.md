@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/singharpit818/LeetCode/tree/master/0561-array-partition) |
+| [1189-maximum-number-of-balloons](https://github.com/singharpit818/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/singharpit818/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2248-intersection-of-multiple-arrays](https://github.com/singharpit818/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/singharpit818/LeetCode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/singharpit818/LeetCode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/singharpit818/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/singharpit818/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1189-maximum-number-of-balloons](https://github.com/singharpit818/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/singharpit818/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/singharpit818/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/singharpit818/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/singharpit818/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/singharpit818/LeetCode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/singharpit818/LeetCode/tree/master/0412-fizz-buzz) |
+| [1189-maximum-number-of-balloons](https://github.com/singharpit818/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/singharpit818/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/singharpit818/LeetCode/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/singharpit818/LeetCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
