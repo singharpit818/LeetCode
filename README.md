@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/singharpit818/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/singharpit818/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/singharpit818/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/singharpit818/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/singharpit818/LeetCode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/singharpit818/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/singharpit818/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/singharpit818/LeetCode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/singharpit818/LeetCode/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/singharpit818/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2164-sort-even-and-odd-indices-independently](https://github.com/singharpit818/LeetCode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2248-intersection-of-multiple-arrays](https://github.com/singharpit818/LeetCode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/singharpit818/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/singharpit818/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
